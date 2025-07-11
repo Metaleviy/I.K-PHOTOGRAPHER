@@ -1,0 +1,109 @@
+
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Фотограф у Чехії — Портфоліо</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #fefefe;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #f4f4f4;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 32px;
+        }
+        header p {
+            margin-top: 10px;
+            font-size: 18px;
+            color: #666;
+        }
+        section {
+            padding: 40px 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h2 {
+            color: #222;
+        }
+        .gallery img {
+            width: 100%;
+            max-width: 300px;
+            margin: 10px;
+            border-radius: 8px;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        footer {
+            background-color: #eee;
+            padding: 20px;
+            text-align: center;
+            font-size: 14px;
+            color: #777;
+        }
+        .button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #222;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Теплі історії у фотографіях</h1>
+    <p>Сімейна та дитяча фотографія у Чехії | 40+ оброблених фото</p>
+</header>
+
+<section>
+    <h2>Про мене</h2>
+    <p>Привіт! Я фотограф, що спеціалізується на портретах, сімейних та дитячих фотосесіях. 
+    Люблю ловити моменти ніжності, радості й тепла — ті, що залишаються у серці на роки.</p>
+</section>
+
+<section>
+    <h2>Мої роботи</h2>
+    <div class="gallery">
+        <img src="https://via.placeholder.com/300x200.png?text=Фото+1" alt="Фото 1">
+        <img src="https://via.placeholder.com/300x200.png?text=Фото+2" alt="Фото 2">
+        <img src="https://via.placeholder.com/300x200.png?text=Фото+3" alt="Фото 3">
+    </div>
+</section>
+
+<section>
+    <h2>Пакет послуг</h2>
+    <p><strong>Сімейна/дитяча фотосесія</strong><br>
+       📍 Локація: на природі або у вас вдома<br>
+       🕒 Тривалість: 1 година<br>
+       📸 40+ оброблених фото у фірмовому стилі<br>
+       💌 Онлайн-галерея для завантаження<br>
+       💳 Ціна: 1800 CZK</p>
+</section>
+
+<section>
+    <h2>Зв'язатися зі мною</h2>
+    <p>Напишіть у <a href="https://t.me/yourtelegram" target="_blank">Telegram</a> або в <a href="https://www.instagram.com/yourinstagram" target="_blank">Instagram</a>.</p>
+</section>
+
+<footer>
+    &copy; 2025 Фотограф у Чехії. Всі права захищені.
+</footer>
+
+</body>
+</html>
